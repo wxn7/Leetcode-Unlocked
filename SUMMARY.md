@@ -12,7 +12,7 @@
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
    * [252&253. Meeting Rooms I, II](LeetCode Locked/c1.6.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
-   * [Flatten 2D Vector](LeetCode Locked/c1.10.md)
+   * [251. Flatten 2D Vector](LeetCode Locked/c1.10.md)
    * [Group Shifted Strings](LeetCode Locked/c1.11.md)
    * [Count Univalue Subtrees](LeetCode Locked/c1.12.md)
    * [Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
