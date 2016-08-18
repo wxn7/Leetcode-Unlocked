@@ -21,7 +21,7 @@
    * [269. Alien Dictonary](LeetCode Locked/c1.19.md)
    * [271. Encode and Decode Strings](LeetCode Locked/c1.21.md)
    * [163. Missing Ranges](LeetCode Locked/c1.8.md)
-   * [Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
+   * [255. Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
    * [Closest Binary Search Tree Value I, II](LeetCode Locked/c1.20.md)
    * [Find the Celebrity](LeetCode Locked/c1.22.md)
    * [Wiggle Sort](LeetCode Locked/c1.42.md)
