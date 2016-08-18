@@ -10,7 +10,7 @@
    * [254. Factor Combinations](LeetCode Locked/c1.1.md)
    * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
-   * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
+   * [252&253. Meeting Rooms I, II](LeetCode Locked/c1.6.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
    * [Flatten 2D Vector](LeetCode Locked/c1.10.md)
    * [Group Shifted Strings](LeetCode Locked/c1.11.md)
