@@ -7,7 +7,7 @@
    * [161. One Edit Distance](LeetCode Locked/c1.9.md)
    * [Reverse Words in a String II](LeetCode Locked/c1.md)
    * [Factor Combinations](LeetCode Locked/c1.1.md)
-   * [Two Sum III – Data structure design](LeetCode Locked/c1.2.md)
+   * [170. Two Sum III – Data structure design](LeetCode Locked/c1.2.md)
    * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
    * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
