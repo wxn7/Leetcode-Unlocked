@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * [156. Binary Tree Upside Down](LeetCode Locked/c1.13.md)
    * [Reverse Words in a String II](LeetCode Locked/c1.md)
    * [Factor Combinations](LeetCode Locked/c1.1.md)
    * [Two Sum III – Data structure design](LeetCode Locked/c1.2.md)
@@ -8,7 +9,6 @@
    * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
    * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
-   * [156. Binary Tree Upside Down](LeetCode Locked/c1.13.md)
    * [159. Longest Substring with At Most Two Distinct Characters](LeetCode Locked/c1.7.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
    * [161. One Edit Distance](LeetCode Locked/c1.9.md)
