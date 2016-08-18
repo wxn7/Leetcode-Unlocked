@@ -15,7 +15,7 @@
    * [261. Graph Valid Tree](LeetCode Locked/c1.17.md)
    * [269. Alien Dictonary](LeetCode Locked/c1.19.md)
    * [271. Encode and Decode Strings](LeetCode Locked/c1.21.md)
-   * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
+   * [243~245. Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
    * [Group Shifted Strings](LeetCode Locked/c1.11.md)
