@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
    * [156. Binary Tree Upside Down](LeetCode Locked/c1.13.md)
+   * [Read N Characters Given Read4 I, II](LeetCode Locked/c1.3.md)
    * [Reverse Words in a String II](LeetCode Locked/c1.md)
    * [Factor Combinations](LeetCode Locked/c1.1.md)
    * [Two Sum III – Data structure design](LeetCode Locked/c1.2.md)
-   * [Read N Characters Given Read4 I, II](LeetCode Locked/c1.3.md)
    * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
    * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
    * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
