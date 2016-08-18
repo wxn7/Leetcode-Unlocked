@@ -43,5 +43,5 @@
    * [Generalized Abbreviation](LeetCode Locked/c1.37.md)
    * [Number of Connected Components in an Undirected Graph](LeetCode Locked/c1.38.md)
    * [325. Maximum Size Subarray Sum Equals K](LeetCode Locked/c1.40.md)
-   * [Largest BST Subtree](LeetCode Locked/c1.41.md)
+   * [333. Largest BST Subtree](LeetCode Locked/c1.41.md)
 
