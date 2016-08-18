@@ -39,9 +39,9 @@
    * [Range Sum Query 2D - Mutable](LeetCode Locked/c1.33.md)
    * [Sparse Matrix Multiplication](LeetCode Locked/c1.34.md)
    * [Binary Tree Vertical Order Traversal](LeetCode Locked/c1.35.md)
-   * [Shortest Distance from All Buildings](LeetCode Locked/c1.36.md)
-   * [Generalized Abbreviation](LeetCode Locked/c1.37.md)
-   * [Number of Connected Components in an Undirected Graph](LeetCode Locked/c1.38.md)
+   * [317. Shortest Distance from All Buildings](LeetCode Locked/c1.36.md)
+   * [320. Generalized Abbreviation](LeetCode Locked/c1.37.md)
+   * [323. Number of Connected Components in an Undirected Graph](LeetCode Locked/c1.38.md)
    * [325. Maximum Size Subarray Sum Equals K](LeetCode Locked/c1.40.md)
    * [333. Largest BST Subtree](LeetCode Locked/c1.41.md)
 
