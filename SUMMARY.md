@@ -19,7 +19,7 @@
    * [269. Alien Dictonary](LeetCode Locked/c1.19.md)
    * [271. Encode and Decode Strings](LeetCode Locked/c1.21.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
-   * [Count Univalue Subtrees](LeetCode Locked/c1.12.md)
+   * [250. Count Univalue Subtrees](LeetCode Locked/c1.12.md)
    * [Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
    * [Palindrome Permutation I, II](LeetCode Locked/c1.18.md)
    * [Closest Binary Search Tree Value I, II](LeetCode Locked/c1.20.md)
