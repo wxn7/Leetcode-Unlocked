@@ -10,7 +10,7 @@
    * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
    * [159. Longest Substring with At Most Two Distinct Characters](LeetCode Locked/c1.7.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
-   * [One Edit Distance](LeetCode Locked/c1.9.md)
+   * [161. One Edit Distance](LeetCode Locked/c1.9.md)
    * [Flatten 2D Vector](LeetCode Locked/c1.10.md)
    * [Group Shifted Strings](LeetCode Locked/c1.11.md)
    * [Count Univalue Subtrees](LeetCode Locked/c1.12.md)
