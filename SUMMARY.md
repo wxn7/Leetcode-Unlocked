@@ -21,7 +21,7 @@
    * [271. Encode and Decode Strings](LeetCode Locked/c1.21.md)
    * [Missing Ranges](LeetCode Locked/c1.8.md)
    * [Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
-   * [Palindrome Permutation I, II](LeetCode Locked/c1.18.md)
+   * [266~267. Palindrome Permutation I, II](LeetCode Locked/c1.18.md)
    * [Closest Binary Search Tree Value I, II](LeetCode Locked/c1.20.md)
    * [Find the Celebrity](LeetCode Locked/c1.22.md)
    * [Wiggle Sort](LeetCode Locked/c1.42.md)
