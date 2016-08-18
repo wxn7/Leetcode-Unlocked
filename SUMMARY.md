@@ -37,7 +37,7 @@
    * [302. Smallest Rectangle Enclosing Black Pixels](LeetCode Locked/c1.31.md)
    * [305. Number of Islands II](LeetCode Locked/c1.32.md)
    * [308. Range Sum Query 2D - Mutable](LeetCode Locked/c1.33.md)
-       * LeetCode Locked/167. Two Sum II - Input Array is Sorted.md
+       * [LeetCode Locked/167. Two Sum II - Input Array is Sorted.md](LeetCode Locked/twoSumII.md/167. Two Sum II - Input Array is Sorted.md)
    * [311. Sparse Matrix Multiplication](LeetCode Locked/c1.34.md)
    * [314. Binary Tree Vertical Order Traversal](LeetCode Locked/c1.35.md)
    * [317. Shortest Distance from All Buildings](LeetCode Locked/c1.36.md)
