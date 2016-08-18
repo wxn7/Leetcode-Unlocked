@@ -16,7 +16,7 @@
    * [Group Shifted Strings](LeetCode Locked/c1.11.md)
    * [Count Univalue Subtrees](LeetCode Locked/c1.12.md)
    * [Verify preorder sequence of Binary Search Tree](LeetCode Locked/c1.14.md)
-   * [Paint House I, II](LeetCode Locked/c1.15.md)
+   * [256&265. Paint House I, II](LeetCode Locked/c1.15.md)
    * [259. 3Sum Smaller](LeetCode Locked/c1.16.md)
    * [261. Graph Valid Tree](LeetCode Locked/c1.17.md)
    * [Palindrome Permutation I, II](LeetCode Locked/c1.18.md)
