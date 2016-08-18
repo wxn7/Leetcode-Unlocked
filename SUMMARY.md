@@ -24,7 +24,7 @@
    * [163. Missing Ranges](LeetCode Locked/c1.8.md)
    * [270&272. Closest Binary Search Tree Value I, II](LeetCode Locked/c1.20.md)
    * [Find the Celebrity](LeetCode Locked/c1.22.md)
-   * [Wiggle Sort](LeetCode Locked/c1.42.md)
+   * [280. Wiggle Sort](LeetCode Locked/c1.42.md)
    * [Zigzag Iterator](LeetCode Locked/c1.43.md)
    * [Paint Fence](LeetCode Locked/c1.23.md)
    * [Walls and Gates](LeetCode Locked/c1.24.md)
