@@ -18,7 +18,7 @@ The solutions are collected from the internet.
 * [Shortest Word Distance I, II, III](LeetCode Locked/c1.4.md)
 * [Strobogrammatic Number I, II, III](LeetCode Locked/c1.5.md)
 * [Meeting Rooms I, II](LeetCode Locked/c1.6.md)
-* [Longest Substring with At Most Two Distinct Characters](LeetCode Locked/c1.7.md)
+* [159. Longest Substring with At Most Two Distinct Characters](LeetCode Locked/c1.7.md)
 * [Missing Ranges](LeetCode Locked/c1.8.md)
 * [One Edit Distance](LeetCode Locked/c1.9.md)
 * [Flatten 2D Vector](LeetCode Locked/c1.10.md)
