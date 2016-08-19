@@ -1,7 +1,7 @@
 # Summary
 
 * [Locked Problems](README.md)
-   * [156. Binary Tree Upside Down](LeetCode Locked/c1.13.md)
+   * [156. Binary Tree Upside Down](LeetCode Locked/BTUpsideDown.md)
    * [157&158. Read N Characters Given Read4 I, II](LeetCode Locked/c1.3.md)
    * [159. Longest Substring with At Most Two Distinct Characters](LeetCode Locked/c1.7.md)
    * [161. One Edit Distance](LeetCode Locked/c1.9.md)
